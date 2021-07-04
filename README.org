@@ -1,0 +1,24 @@
+* maildir-tools
+  :PROPERTIES:
+  :CUSTOM_ID: maildir-tools
+  :END:
+
+A Clojure library designed to ... well, that part is up to you.
+
+** Usage
+   :PROPERTIES:
+   :CUSTOM_ID: usage
+   :END:
+
+FIXME
+
+** License
+   :PROPERTIES:
+   :CUSTOM_ID: license
+   :END:
+
+Copyright © 2021 Sébastien Le Callonnec
+
+This project is licensed under the
+[[https://choosealicense.com/licenses/gpl-3.0][GNU General Public
+License v3.0]].
